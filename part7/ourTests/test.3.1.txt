@@ -1,0 +1,5 @@
+begin
+bool y;
+y := False and 2;
+write(y, True or 5, not 5);
+end

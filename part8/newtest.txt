@@ -1,0 +1,16 @@
+begin
+method void foo1(~int x)
+	int t;
+	t := 5;
+	~x := ~x * t;
+       
+methed
+
+method void main()
+	int x;
+	read(x);
+        int b;
+        func foo1(&x) funed
+        write(~x);
+methed
+end

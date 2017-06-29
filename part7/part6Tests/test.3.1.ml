@@ -1,0 +1,3 @@
+begin
+string x;
+end

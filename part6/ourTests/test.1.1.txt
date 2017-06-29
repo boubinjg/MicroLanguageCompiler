@@ -1,0 +1,5 @@
+begin
+string x;
+x := "good";
+write(x);
+end

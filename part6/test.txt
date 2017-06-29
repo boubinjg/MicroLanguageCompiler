@@ -1,0 +1,9 @@
+begin
+int x;
+x := 6;
+int y;
+y := 7; 
+
+write(True or True);
+end
+

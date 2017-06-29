@@ -1,0 +1,17 @@
+begin
+int x;
+method void foo2()
+	int y;
+	y := 2;
+
+	write("foo2:", y);
+methed
+method int main()
+	int x;
+	x := 1;
+	func foo2() funed
+	write("main:", x);
+	
+	return 0;
+methed
+end

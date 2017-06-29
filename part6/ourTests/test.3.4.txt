@@ -1,0 +1,5 @@
+begin
+int x;
+x := 4 > True;
+write(x, False > 4, False > True);
+end

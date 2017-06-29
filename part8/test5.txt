@@ -1,0 +1,40 @@
+begin
+
+method void foo1(int x)
+	write("foo1:", x);
+	x := 2*x;
+	write("foo1:", x);
+methed
+
+method void foo2(int x, int y)
+	write("foo2:", x," ", y, " ", x+y);
+methed
+
+method void foo3(string s)
+	write("foo3:", s);
+methed
+
+method int main() 
+	func foo1(100) funed
+
+	int a;
+	a := 10;
+	func foo1(a) funed
+	write("main:", a);
+
+	int x;
+	x := 10;
+	func foo1(x) funed
+	write("main:", x);
+
+	func foo2(a, x) funed
+	write("main:", a, " ", x);
+	
+	string s;
+	s := "A Lannister always pays his debts.";
+	func foo3(s) funed
+	write("main:", s);
+
+	return 0;
+methed
+end

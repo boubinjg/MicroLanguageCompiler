@@ -1,0 +1,22 @@
+begin
+method void foo() 
+	int i;
+	i := 0;
+	while i < 5
+		begin
+		if i % 2 == 0 then
+			begin
+			write(i);
+			end
+		i := i + 1;
+		end
+methed
+
+method int main()
+	func foo() funed
+	write("Done");
+	func foo() funed
+	write("Done");
+	return 0;
+methed
+end

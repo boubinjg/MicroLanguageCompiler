@@ -1,0 +1,5 @@
+begin
+bool z; 
+z := 4 < True;
+write(z, False < 4, False < True, z);
+end

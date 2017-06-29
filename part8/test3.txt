@@ -1,0 +1,38 @@
+begin
+
+method int foo1()
+	return 10;
+methed
+
+method string foo2()
+	return "Winter is coming.";
+methed
+
+method string foo3()
+	int x;
+        read(x);
+        if x >= 10 then
+        	begin
+		return "yes";
+		end
+	else
+		begin
+		return "no";
+		end
+methed
+method bool foo4()
+	return True;
+methed
+
+method void main()
+	write(func foo1() funed);
+	write(5*func foo1() funed + func foo1() funed);
+	write(func foo2() funed);
+	write(func foo3() funed);
+	if func foo4() funed then
+		begin
+		write("Yes");
+		end
+methed
+end
+	

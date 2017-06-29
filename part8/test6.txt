@@ -1,0 +1,38 @@
+begin
+int x;
+method void foo1()
+	int z;
+	z := 3;
+	write("foo1:", z);
+methed
+
+method void foo2()
+	int y;
+	y := 2;
+	func foo1() funed
+	write("foo2:", y);
+methed
+
+method void foo3()
+	int x;
+	x := 3;
+	write("foo3:", x);
+methed
+
+method void foo4() 
+	int x;
+	x := 2;
+	func foo3() funed
+	write("foo4:", x);
+methed
+
+method int main()
+	int x;
+	x := 1;
+	func foo2() funed
+	write("main:", x);
+	func foo4() funed
+	write("main:", x);
+	return 0;
+methed
+end

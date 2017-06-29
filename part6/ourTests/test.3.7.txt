@@ -1,0 +1,4 @@
+begin
+bool y;
+y := 4*4;
+end

@@ -1,0 +1,4 @@
+begin
+bool x := True == 2;
+write(x, x, x == (x == x));
+end

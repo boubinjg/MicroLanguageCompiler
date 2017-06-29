@@ -1,0 +1,3 @@
+begin
+bool y;
+end

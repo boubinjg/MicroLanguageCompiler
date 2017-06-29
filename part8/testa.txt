@@ -1,0 +1,9 @@
+begin
+method int foo() 
+	return 1;
+methed
+
+method void main()   
+ write(1);
+methed
+end

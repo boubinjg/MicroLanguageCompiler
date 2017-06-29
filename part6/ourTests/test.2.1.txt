@@ -1,0 +1,3 @@
+begin
+int x;
+end

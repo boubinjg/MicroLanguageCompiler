@@ -1,0 +1,6 @@
+begin
+if not False then
+ begin
+  write("stuff");
+ end
+end

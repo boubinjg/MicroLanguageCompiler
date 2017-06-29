@@ -1,0 +1,37 @@
+begin
+method void foo3(~int x)
+	int y;
+	write("foo3:", ~x);
+	read(y);
+	~x := ~x + y;
+	write("foo3:", ~x);
+methed
+
+method void foo2(~int x)
+	int z;
+	read(z);
+	~x := ~x + z;
+	write("foo2:", ~x);
+	func foo3(x) funed
+	write("foo2:", ~x);
+methed
+
+method void foo1(~int x)
+	int t;
+	read(t);
+	write("foo1:", ~x);
+	~x := ~x * t;
+	write("foo1:", ~x);
+methed
+
+method int main()
+	int x;
+	read(x);
+	write("main:", x);
+	func foo1(&x) funed
+	write("main:", x);
+	func foo2(&x) funed
+	write("main:", x);
+	return 0;
+methed
+end

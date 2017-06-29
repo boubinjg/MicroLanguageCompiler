@@ -1,0 +1,15 @@
+begin
+
+method void foo1(~int x)
+	int a;	
+        a := ~x;
+        write(a);
+methed
+
+method int main()
+	int a;
+	a := 5;
+        func foo(&a) funed
+	return 0;
+methed
+end

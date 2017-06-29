@@ -1,0 +1,6 @@
+begin
+write("test\n");
+write("True\n");
+write("test\n");
+write("False\n");
+end

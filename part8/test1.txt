@@ -1,0 +1,24 @@
+begin
+method void foo()
+	int i;
+	i := 0;
+	i := i + 1;
+	write("In foo:", i);
+methed
+
+method void foo2()
+	write("In foo2.");
+methed
+
+method int main()
+	write("In main.");
+	func foo() funed
+	write("Returned to main.");
+	func foo() funed
+	write("Returned to main. (Again.)");
+	func foo2() funed
+	write("Returned to main.");
+	return 0;
+methed
+end
+

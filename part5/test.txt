@@ -1,0 +1,6 @@
+begin
+x := 2;
+y := 3;
+read(x,y);
+write(x,y);
+end

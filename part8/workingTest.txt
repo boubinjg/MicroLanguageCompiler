@@ -1,0 +1,25 @@
+begin
+
+method int foo1()
+	return 10;
+methed
+
+method string foo2()
+	return "Winter is coming.";
+methed
+
+method bool foo4()
+	return True;
+methed
+
+method int main()
+	write(func foo1() funed);
+	write(5*func foo1() funed + func foo1() funed);
+	write(func foo2() funed);
+	if func foo4() funed then
+		begin
+		write("Yes");
+		end
+methed
+end
+	

@@ -1,0 +1,6 @@
+A compiler for a c-like microlanguage written in python. This was the course project for Miami University's compiler design course.
+The grammar for the language as well as it's implementation can be found in the part8 folder. Each directory in this project contains 
+a new step of the project. The final product (part 8) is a full imperative language containing pointers, function calls, looping,
+branching, strings, integers, arithmetic and other features. The compiler translates text files of the micro-language into MIPS. We
+got an A on this project. We were the first group to finish this project in its final form, and one of only two to complete it in its
+entirety. 
